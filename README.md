@@ -39,7 +39,7 @@ A list of flights in the format:
 
 flights = [('F1', 9, 11), ('F2', 10, 12), ('F3', 13, 15)]
 
-👨‍✈️ **Crew Members**
+ **Crew Members**
 
 Example:
 
@@ -56,6 +56,7 @@ Minimum rest time of 1 hour between flights
 (Optional) Cost minimization or fairness optimization
 
 🛠️ **Approach / Methodology**
+
 1️⃣ **Constraint Checking**
 
 A function verifies whether a crew member can take a new flight:
